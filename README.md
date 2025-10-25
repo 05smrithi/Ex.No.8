@@ -67,7 +67,7 @@
 ```
 <br>**SCENARIO 1 : Reproducing a Minimalist Digital Artwork**
 
-```
+
 <img width="933" height="256" alt="Screenshot 2025-10-25 111831" src="https://github.com/user-attachments/assets/d65f3309-1c8f-4c11-a07f-971f19fc6ac7" />
 
 
@@ -77,10 +77,10 @@
 
 
 <img width="1775" height="201" alt="image" src="https://github.com/user-attachments/assets/fc2b6b78-afc5-4234-90f0-e73ddd0fe6b2" />
-```
+
 
 <br>**SCENARIO 2: Reproducing a High-Contrast Street Photography Scene**
-```
+
 
 <img width="1013" height="251" alt="image" src="https://github.com/user-attachments/assets/599c95fc-351a-4401-a58f-ad841916e396" />
 
@@ -90,7 +90,7 @@
 
 
 <img width="1644" height="174" alt="image" src="https://github.com/user-attachments/assets/18425d8f-3016-4f12-85c6-b76aa105cb8d" />
-```
+
 
 
 ## Conclusion:
