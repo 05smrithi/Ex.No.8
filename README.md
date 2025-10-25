@@ -8,7 +8,7 @@
 
 <br>## **Procedure:**
 ```
-<br>1.	Analyze the Given Image:
+1.	Analyze the Given Image:
 
 ○	Examine the image carefully, noting key elements such as:
 ■	Objects/Subjects (e.g., people, animals, objects)
@@ -19,7 +19,7 @@
 ■	Composition (e.g., focal points, perspective)
 ■	Style (e.g., realistic, artistic, cartoonish)
 
-<br>2.	Create the Basic Prompt:
+2.	Create the Basic Prompt:
 ○	Write an initial, simple description of the image. For example, if the image shows a landscape, the prompt could be "A serene landscape with mountains and a river."
 
 3.	Refine the Prompt with More Detail:
@@ -67,19 +67,30 @@
 ```
 <br>**SCENARIO 1 : Reproducing a Minimalist Digital Artwork**
 
+```
 <img width="933" height="256" alt="Screenshot 2025-10-25 111831" src="https://github.com/user-attachments/assets/d65f3309-1c8f-4c11-a07f-971f19fc6ac7" />
+
+
 
 <img width="1644" height="158" alt="image" src="https://github.com/user-attachments/assets/850a4e20-fb88-447e-932f-40dcf44d1487" />
 
+
+
 <img width="1775" height="201" alt="image" src="https://github.com/user-attachments/assets/fc2b6b78-afc5-4234-90f0-e73ddd0fe6b2" />
+```
 
 <br>**SCENARIO 2: Reproducing a High-Contrast Street Photography Scene**
+```
 
 <img width="1013" height="251" alt="image" src="https://github.com/user-attachments/assets/599c95fc-351a-4401-a58f-ad841916e396" />
 
+
 <img width="1248" height="146" alt="image" src="https://github.com/user-attachments/assets/c380c13e-25d0-475d-af58-5d7ab867da1b" />
 
+
+
 <img width="1644" height="174" alt="image" src="https://github.com/user-attachments/assets/18425d8f-3016-4f12-85c6-b76aa105cb8d" />
+```
 
 
 ## Conclusion:
